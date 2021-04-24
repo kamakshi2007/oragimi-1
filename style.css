@@ -1,0 +1,26 @@
+.header{
+    background-color:#EE6E7C;
+    text-align: center;
+}
+h2,h3{
+    text-align: center;
+}
+p{
+    text-align: start;
+}
+.menu *{
+    margin-right: 30px;
+}
+body{
+    background-color:#D6A8A8;
+    margin: 30px;
+}
+.item{
+    position:relative;
+}
+h6{
+    font-size:20px;
+  }
+.item{
+    position:relative;
+}
